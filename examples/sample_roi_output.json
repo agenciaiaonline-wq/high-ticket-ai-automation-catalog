@@ -1,0 +1,19 @@
+{
+  "inputs": {
+    "ops_per_month": 100000,
+    "manual_hours_saved": 40.0,
+    "hourly_value_usd": 35.0,
+    "setup_fee_usd": 4500.0
+  },
+  "estimated_monthly_costs_usd": {
+    "traditional_saas_automation": 550.0,
+    "self_hosted_docker_vps": 24.0,
+    "routed_llm_api_usage": 45.0
+  },
+  "estimated_monthly_value_usd": {
+    "saas_license_savings": 481.0,
+    "labor_time_savings": 1400.0,
+    "total_monthly_benefit": 1881.0
+  },
+  "estimated_payback_months": 2.39
+}
