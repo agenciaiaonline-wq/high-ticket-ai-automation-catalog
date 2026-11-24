@@ -1,6 +1,6 @@
 # High-Ticket AI & Software Automation Catalog (Productized Scope & ROI Estimator)
 
-[![CI](https://img.shields.io/badge/CI-unittest-10b981?style=flat-square)](.github/workflows/ci.yml)
+[![Catalog ROI CI](https://github.com/agenciaiaonline-wq/high-ticket-ai-automation-catalog/actions/workflows/ci.yml/badge.svg)](https://github.com/agenciaiaonline-wq/high-ticket-ai-automation-catalog/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/CLI-ROI_Estimator-3776AB?style=flat-square&logo=python&logoColor=white)](scripts/estimate_project_roi.py)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 
